@@ -14,4 +14,6 @@
 
 [Carrusel en Angular](https://github.com/ahmarcela/angular-carousel.git)
 
+[Pruebas de lógica y usabilidad](https://github.com/ah-debuggirl/PruebasAulasCMX)
+
 [Unit Testing - Mocha](https://github.com/ah-debuggirl/unit-testing.git)
